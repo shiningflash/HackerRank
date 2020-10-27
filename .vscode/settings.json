@@ -1,3 +1,6 @@
 {
-    "python.dataScience.jupyterServerURI": "local"
+    "python.dataScience.jupyterServerURI": "local",
+    "files.associations": {
+        "ostream": "cpp"
+    }
 }
