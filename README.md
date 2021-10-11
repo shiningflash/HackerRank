@@ -1,3 +1,3 @@
-# HackerRank
+# HackerRank Solutions
 
-username: shiningflash
+profile: [shiningflash](https://www.hackerrank.com/shiningflash)
