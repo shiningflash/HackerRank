@@ -2,16 +2,16 @@ class Car:
     def __init__(self, speed, unit):
         self.speed = speed
         self.unit = unit
+
     def __str__(self):
-        mystr = "Car with the maximum speed of {} {}"
-        return mystr.format(self.speed, self.unit)
+        return f"Car with the maximum speed of {self.speed} {self.unit}"
 
 class Boat:
     def __init__(self, speed):
         self.speed = speed
+
     def __str__(self):
-        mystr = "Boat with the maximum speed of {} knots"
-        return mystr.format(self.speed)
+        return f"Boat with the maximum speed of {self.speed} knots"
 
 if __name__ == '__main__':
     n = int(input())
